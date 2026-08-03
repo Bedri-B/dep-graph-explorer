@@ -11,6 +11,8 @@ Built with **Vite + React + TypeScript + D3** (`d3-force`, `d3-drag`,
 `d3-zoom`) — no backend, no npm registry calls, no build-time dependency
 resolution.
 
+![DepGraphExplorer screenshot](docs/screenshot.png)
+
 ## Why it's structured this way
 
 The package.json → graph transformation (`src/lib/graphBuilder.ts`) is a
